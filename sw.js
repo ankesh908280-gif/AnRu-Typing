@@ -1,10 +1,11 @@
-const CACHE_NAME = "anru-typing-pwa-v3";
+const CACHE_NAME = "anru-typing-pwa-v5";
 const ASSETS = [
   "./",
   "./index.html",
   "./manifest.json",
-  "./icons/icon-192.svg",
-  "./icons/icon-512.svg",
+  "./icons/icon-192.png",
+  "./icons/icon-512.png",
+  "./icons/favicon.png",
   "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css",
   "https://cdn.tailwindcss.com/3.4.17"
 ];
